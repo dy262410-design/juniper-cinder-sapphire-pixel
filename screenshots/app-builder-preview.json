@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "전초기지",
+      "hasCanvas": false,
+      "bodyTextLen": 12,
+      "bodyTextHash": "5c8c989471025bc76b9e133f78ed27bff27b31c52ffd49d5b3ac7a17153a4464",
+      "bodyTextPrefix": "전초기지를 준비하는 중",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "전초기지",
+      "hasCanvas": false,
+      "bodyTextLen": 230,
+      "bodyTextHash": "06aa880158eb1ee2aa1b21d49e3feb99b58ebf461bcf3c3dff1698d7017b8d7d",
+      "bodyTextPrefix": "SECTOR 01 전초기지 초원 경로를 따라 들어오는 적을 타워로 막습니다. 엘리프로 타워를 해금하고, 골드로 설치",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
